@@ -1536,6 +1536,7 @@ section,
   min-height: 320px;
 }
 
+
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50%;
@@ -1591,8 +1592,8 @@ section,
   background: color-mix(in srgb, var(--default-color), transparent 97%);
   position: relative;
   border-radius: 6px;
-  position: relative;
   z-index: 1;
+  height: 350px;
 }
 
 .testimonials .swiper-wrapper {
