@@ -1165,7 +1165,7 @@ section,
 }
 
 .why-us .card-item span {
-  color: var(--accent-color);
+  color: var(--red-color);
   display: block;
   font-size: 28px;
   font-weight: 700;
